@@ -1,0 +1,11 @@
+{
+  "name": "oh-dont-leave",
+  "version": "1.0.0",
+  "description": "Detects if the user about to close the current tab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
